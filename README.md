@@ -1,7 +1,7 @@
 The Assistant - Your Personal Desktop Assistant made for Windows using C<br>
 Welcome to The Assistant, your helpful on-boot virtual assistant built in C!<br>
 
-<img src="https://private-user-images.githubusercontent.com/138290712/300233680-54e4a67c-1652-4ccc-9404-d8c32fb827a8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzczNzcwNzAsIm5iZiI6MTczNzM3Njc3MCwicGF0aCI6Ii8xMzgyOTA3MTIvMzAwMjMzNjgwLTU0ZTRhNjdjLTE2NTItNGNjYy05NDA0LWQ4YzMyZmI4MjdhOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyMFQxMjM5MzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYzEzYzBhYmExMTRkMTRmYTNmOTlhYzNlOGE0ZGU5ODE4ZDhkYjkyMDMwYTBhMTc0ODI4ZjBjYTE2OGY0ZjA2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.FK6h2y6iDMpvdQAY0iaS2ZsL9mloOOONTqLI5HAc7t0"/>
+<img src="Screenshot (16).png"/>
 This project offers a range of functionalities to enhance your daily workflow, available as soon as you start your system.
 <h1>Capabilities:</h1><br>
 <ul>
